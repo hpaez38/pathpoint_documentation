@@ -1,3 +1,3 @@
 ## Release notes
 ### Sprint 2
-![control_table](images/Release_note.png)
+<img src="images/Release_note.png" align=center width="1000" height="800" />
