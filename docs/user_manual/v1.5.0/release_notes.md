@@ -1,2 +1,2 @@
-test doc..
-![description](images/Example_active_dotted.png)
+## Release notes
+![control_table](images/Release_note.png)
