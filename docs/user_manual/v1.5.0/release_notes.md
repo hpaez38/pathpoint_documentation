@@ -23,5 +23,5 @@ A new way to calculate congestion is implemented, based on the formule developed
 •	It uses the Count touchpoints, PCC and PRC
 •	It adds a new property to the tuning, defining the max acceptable value. 
 ## "Max transaction Count” in the figure
-<img src="images/TransactionsCount.png" align=center width="1000" height="800" />
+<img src="images/TransactionsCount.png">
 
