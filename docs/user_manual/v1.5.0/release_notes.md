@@ -16,7 +16,8 @@ Description: Loading the old config into NerdStore with a key like pathpoint_con
 Description: Setting logo aspect ratio 3:1 <br>
 ## Known issues 
 - ***No changes*** <br>
-- ***Documentation changes No changes*** <br>
+## Documentation changes 
+- ***No changes*** <br>
 ## Congestion Documentation 
 
 A new way to calculate congestion is implemented, based on the formule developed. 
