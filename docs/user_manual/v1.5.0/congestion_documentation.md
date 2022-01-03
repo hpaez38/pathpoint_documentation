@@ -1,4 +1,4 @@
-## Congestion Documentation 
+## New Congestion algorithm 
 
 A new way to calculate congestion is implemented, based on the formule developed. 
 - ***It uses the Count touchpoints, PCC and PRC***<br>
