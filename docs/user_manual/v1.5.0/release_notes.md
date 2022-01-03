@@ -1,6 +1,5 @@
 ## Release notes
-### Date December 13th to January 7th <br>
-Version number <br>
+### Version number 1.5.5 <br>
 ## What’s new  <br>
 - ***KPIs are no longer required***<br>
 Description: It's possible to leave the kpi array empty in the JSON configuration file. It will hide the KPI banner <br>
