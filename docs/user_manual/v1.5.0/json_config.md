@@ -1,6 +1,7 @@
 ## History tracking and JSON config 
 
 JSON config has two ways to be uploaded. It can be done from file or from previous uploads that are tracked in the history. 
+<img src="images/json_config1.png">
 ![update_json_config](json_config1.png)
 ![Esta es una imagen de ejemplo](https://ejemplo.com/imagen.jpg)
  
