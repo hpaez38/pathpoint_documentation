@@ -12,5 +12,6 @@ To upload from file, the fields of Description and Note should be filled in orde
 To restore from history, it is needed to select the file and click on restore. It installs the JSON automatically with the selected version. <br><br>
 <img src="images/json_config4.png"> <br><br>
 In the history can be seen the Description and note added when the upload was made. It also shows the date, the user and the file name. On the top right corner is the download button. <br><br>
-The info icon takes to a read me file of Pathpoint documentation. <br>
+The info icon takes to a read me file of Pathpoint documentation. <br><br>
+<img src="images/json_config5.png"> <br><br>
  
