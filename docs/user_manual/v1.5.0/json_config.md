@@ -2,6 +2,7 @@
 
 JSON config has two ways to be uploaded. It can be done from file or from previous uploads that are tracked in the history. 
 ![structure_pathpoint](json_confug1.png)
+![Esta es una imagen de ejemplo](https://ejemplo.com/imagen.jpg)
  
 To upload from file, the fields of Description and Note should be filled in order to be able to select the JSON from the files. It also shows the user that is currently uploading the JSON.
 ![structure_pathpoint](json_confug2.png)
